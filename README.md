@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Norkplim22
 - 👀 I’m interested in data science related projects
-- 🌱 I’m currently learning Python, knime, excel and sql
+- 🌱 I’m currently learning Python, knime, Power BI, excel and sql
 - 💞️ I’m looking to collaborate on projects that involves data analysis using the above listed skills to enhance my practical knowlege; experience by doing
 - 📫 How to reach me cnorkplim@gmail.com 
 
